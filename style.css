@@ -14,10 +14,6 @@ header nav{
     align-items: center;
     padding: 0 20px;
     background: #fff;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
     height: 9vh;
     border-bottom: 1px solid #ddd;
 }
@@ -37,5 +33,20 @@ header nav .logo{
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent; 
     -moz-text-fill-color: transparent;
+}
+
+.container{
+    width: 94%;
+    margin: 20px auto;
+}
+
+.container h1{
+    margin: 10px 0;
+    text-align: center;
+}
+
+.container p{
+    text-align: center;
+    font-size: 1.2rem;
 }
 
