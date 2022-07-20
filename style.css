@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner:wght@400;500;600;700&family=Raleway:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;1,400&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* font-family: 'Edu QLD Beginner', cursive; */
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 header nav{
@@ -19,8 +17,8 @@ header nav{
 }
 
 header nav .logo{
-    font-size: 2rem;
-    font-weight: 500;
+    font-size: 1.8rem;
+    font-weight: 700;
     color: #000;
     text-decoration: none;
     /* background: -webkit-linear-gradient(#eee, #333);
@@ -48,5 +46,75 @@ header nav .logo{
 .container p{
     text-align: center;
     font-size: 1.2rem;
+}
+
+.cards{
+    margin: 20px 0;
+}
+
+.card{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 10px;
+}
+
+.card .card-image img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.card .card-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.card .card-content .card-content-name{
+    font-weight: 600;
+}
+
+.card .card-content .card-content-text{
+    margin: 4px 0;
+    font-weight: 300;
+}
+
+.card .card-content .card-icons{
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card .card-content .card-icons ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 80px;
+    /* background-color: #e64270; */
+
+}
+
+.card .card-content .card-icons ul li{
+    list-style: none;
+}
+
+.card .card-content .card-icons ul li a{
+    font-size: 1.6rem;
+}
+
+.card .card-content .card-icons ul li:hover{
+    transform: scale(1.2);
 }
 
