@@ -20,3 +20,7 @@ Add your name, details, and social links (twitter and github). On the image tag,
 4. Make the code changes
 5. Push the changes you made
 6. Create a pull request
+
+### Refernces to help you 
+[Make your first open-source contribution](https://tech.dineshs91.com/first-open-source-contribution)  
+[Getting Started With Open-Source: How To Contribute As A Beginner](https://catalins.tech/getting-started-with-open-source-how-to-contribute-as-a-beginner) 
