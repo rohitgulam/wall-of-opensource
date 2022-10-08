@@ -47,16 +47,14 @@ The code is simple, just duplicate from where the comments say and then add your
 ```
 After editing the `Index.html` file and making sure that everything is Cool, do the following
 
-## Steps to follow to make a contribution  
-
-5. Commit & Push the changes you made
+##5. Commit & Push the changes you made
 ```
 git init 
 git add --all
 git commit -m "message"
 git push
 ```
-6. Create a pull request
+##6. Create a pull request
 
 ### Refernces to help you 
 [Make your first open-source contribution](https://tech.dineshs91.com/first-open-source-contribution)  
