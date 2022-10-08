@@ -1,7 +1,8 @@
 # Wall of Open Source
 This is just a fun project where developers can make their first open source contributions easily.  
+This project is created with just HTML and CSS so that even beginners can make contributions easily.  
 
-first do the following
+To participate/contribute, first do the following
 
 ## 1. Fork this repo 
 ## 2. Clone it on your local machine
@@ -11,7 +12,6 @@ git clone https://github.com/your-username/wall-of-opensource.git
 ## 3. Create a branch with your name
 ## 4. Make the code changes in `Index.html`
 
-This project is created with just HTML and CSS so that even beginners can make contributions easily.  
 
 The only thing that you're required to do is add your own card that has your details. Like down below :point_down:
 
