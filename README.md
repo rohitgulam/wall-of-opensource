@@ -1,6 +1,16 @@
 # Wall of Open Source
 This is just a fun project where developers can make their first open source contributions easily.  
 
+first do the following
+
+## 1. Fork this repo 
+## 2. Clone it on your local machine
+```
+git clone https://github.com/your-username/wall-of-opensource.git
+```
+## 3. Create a branch with your name
+## 4. Make the code changes in `Index.html`
+
 This project is created with just HTML and CSS so that even beginners can make contributions easily.  
 
 The only thing that you're required to do is add your own card that has your details. Like down below :point_down:
@@ -8,7 +18,7 @@ The only thing that you're required to do is add your own card that has your det
 ![1](https://user-images.githubusercontent.com/83160332/180177578-8bfa6b2e-424f-4496-8e94-44bf7c4f7237.jpeg)
 
 
-The code is simple, just duplicate from where the comments say and then add your own details
+The code is simple, just duplicate from where the comments say and then add your own details. as seen in the code below, copy the code and paste at the bottom position in the `Index.html` file above, add your name, details, and social links (twitter and github). On the image tag, make sure that you use and image link from other platforms (either twitter or github). **Do not upload an image or use an image from your local machine!**
 ```
               <!-- DUPLICATE THIS CODE BLOCK -->
                 <!-- Person Card -->
@@ -33,15 +43,19 @@ The code is simple, just duplicate from where the comments say and then add your
                   </div>
                 <!-- Person Card Ends Here -->
                 <!-- DUPLICATE THIS CODE BLOCK ENDS HERE-->
+
 ```
-In the `Index.html` file above, add your name, details, and social links (twitter and github). On the image tag, make sure that you use and image link from other platforms (either twitter or github). **Do not upload an image or use an image from your local machine!**
+After editing the `Index.html` file and making sure that everything is Cool, do the following
 
 ## Steps to follow to make a contribution  
-1. Fork this repo
-2. Clone it on your local machine
-3. Create a branch with your name
-4. Make the code changes in `Index.html`
+
 5. Commit & Push the changes you made
+```
+git init 
+git add --all
+git commit -m "message"
+git push
+```
 6. Create a pull request
 
 ### Refernces to help you 
