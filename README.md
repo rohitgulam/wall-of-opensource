@@ -15,6 +15,9 @@ git clone https://github.com/your-username/wall-of-opensource.git
 
 The only thing that you're required to do is add your own card that has your details. Like down below :point_down:
 
+Important point to be considerd
+*New card must be added on the bottom, after the last current card. Not among existing cards*
+
 ![1](https://user-images.githubusercontent.com/83160332/180177578-8bfa6b2e-424f-4496-8e94-44bf7c4f7237.jpeg)
 
 
@@ -45,8 +48,6 @@ The code is simple, just duplicate from where the comments say and then add your
  <!-- DUPLICATE THIS CODE BLOCK ENDS HERE-->
 
 ```
-Important point to be considerd
-*New card must be added on the bottom, after the last current card. Not among existing cards*
 
 After editing the `Index.html` file and making sure that everything is Cool, do the following.
 
