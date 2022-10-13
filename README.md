@@ -45,7 +45,12 @@ The code is simple, just duplicate from where the comments say and then add your
  <!-- DUPLICATE THIS CODE BLOCK ENDS HERE-->
 
 ```
-After editing the `Index.html` file and making sure that everything is Cool, do the following
+Important point to be considerd
+*New card must be added on the bottom, after the last current card. Not among existing cards*
+
+After editing the `Index.html` file and making sure that everything is Cool, do the following.
+
+
 
 ## 5. Commit & Push the changes you made
 ```
